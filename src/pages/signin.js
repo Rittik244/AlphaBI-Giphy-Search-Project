@@ -55,7 +55,7 @@ export default function SignIn() {
           </button>
         </form>
         <p className="signup-option">
-          Don't have an account? <span onClick={handleSignUpClick}>Sign Up</span>
+          Don&apos;t have an account? <span onClick={handleSignUpClick}>Sign Up</span>
         </p>
       </div>
 
